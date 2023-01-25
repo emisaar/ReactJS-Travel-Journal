@@ -19,9 +19,7 @@ function App() {
   return (
     <div>
       <Nav />
-      <div className='cards-container'>
-        {card}
-      </div>
+      <div className='cards-container'>{card}</div>
     </div>
   )
 }

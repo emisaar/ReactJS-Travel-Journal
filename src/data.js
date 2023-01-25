@@ -24,6 +24,6 @@ export default [
         place: "GEIRANGERFJORD",
         start_date: "14 Feb, 2023",
         end_date: "27 Mar, 2023",
-        about: "The iconic Geirangerfjord is known for its spectacular waterfalls and deserted fjord farms high up on the steep cliffsides. "
+        about: "The iconic Geirangerfjord is known for its spectacular waterfalls and deserted fjord farms high up on the steep cliffsides. The Geirangerfjord is one of Norway's most popular natural attractions, situated in Stranda municipality."
     },
 ]
